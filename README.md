@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # job-listing-management
 This project is built using the Laravel framework and focuses on managing job listings with full CRUD (Create, Read, Update, Delete) functionalities.
 =======
@@ -68,4 +68,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
->>>>>>> 68036b8 (Initial commit for Job Listing Management project)
+
